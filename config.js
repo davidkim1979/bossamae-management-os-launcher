@@ -1,0 +1,1 @@
+window.MANAGEMENT_OS_CONFIG=Object.freeze({appUrl:'https://script.google.com/a/macros/hansangfnb.co.kr/s/AKfycbxaDfzjgnhMNqS-eM0Emsy80AtlPeB7Xc1_aUy7ajjJpOWSV_Yd3z_FJ4gO78OHhNH5hQ/exec',siteUrl:'https://hq.hansangfnb.co.kr/',environmentLabel:'Production v7'});
